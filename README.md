@@ -1,1 +1,1 @@
-# sc-processor
+# Single Cycle Processor
